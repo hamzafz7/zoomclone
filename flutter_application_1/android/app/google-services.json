@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "486086030637",
+    "project_id": "myzoom-11d9f",
+    "storage_bucket": "myzoom-11d9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486086030637:android:5a524d894c595ef7994fa4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486086030637-udeakodkn2ohbg2p4eda2l0m5igng48s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_1",
+            "certificate_hash": "985f166a0af4c7ea7464563a63f5b839aca1b4a2"
+          }
+        },
+        {
+          "client_id": "486086030637-89pus7visjpdecbbqq6nks9rueusd308.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgO3VxbCjdaCxQCvpzvvcxuyXNx5A-STE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486086030637-89pus7visjpdecbbqq6nks9rueusd308.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
